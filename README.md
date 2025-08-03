@@ -54,7 +54,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/cyriljaiswal)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge&logoColor=white)](https://github.com/cyriljaiswal)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:cyriljaiswal.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:cyriljaiswal@outlook.com)
 
 ---
 
