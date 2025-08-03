@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Cyril Jaiswal</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
@@ -15,7 +14,7 @@
 - 💼 Building responsive, accessible, and user-friendly UIs.
 - ⚡ Passionate about **clean code**, **UI/UX**, and continuous learning.
 - 💬 Ask me about **web animations**, **responsive design**, or **how to make your portfolio stand out**!
-- 📫 Reach me at: **cyriljaiswal.dev@gmail.com**
+- 📫 Reach me at: **cyriljaiswal@outlook.com**
 - 🌐 Portfolio: [Coming Soon]
 - 🧠 Fun fact: I can make your form validation errors look good 😎
 
@@ -33,15 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyriljaiswal&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyriljaiswal&layout=compact&theme=radical" width="45%" />
-</p>
-
----
-
 ### 📌 Projects Worth Checking
 
 - [🎓 Education Website](https://github.com/cyriljaiswal/education-site) — Modern UI/UX with animations and responsive design
@@ -54,9 +44,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/cyriljaiswal)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge&logoColor=white)](https://github.com/cyriljaiswal)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:cyriljaiswal@outlook.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-blue?logo=microsoft-outlook&style=for-the-badge&logoColor=white)](mailto:cyriljaiswal@outlook.com)
 
 ---
 
 > *“The best frontend is the one users never have to think about — intuitive, beautiful, and fast.”*
-
