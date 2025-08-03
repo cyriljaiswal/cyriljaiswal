@@ -34,9 +34,9 @@
 
 ### 📌 Projects Worth Checking
 
-- [🎓 Education Website](https://github.com/cyriljaiswal/education-site) — Modern UI/UX with animations and responsive design
-- [🌐 Portfolio Template](https://github.com/cyriljaiswal/portfolio-template) — Personal portfolio starter using HTML/CSS/JS
-- [📝 To-Do App](https://github.com/cyriljaiswal/todo-app-js) — Simple and elegant task manager
+- [🔐 Login & Register Form](https://github.com/cyriljaiswal/Login-Register) — A clean and responsive login/register UI built using HTML, CSS, and JS.
+- [🍰 SweetBite Website](https://github.com/cyriljaiswal/sweetbite-website) — A sweet-themed modern UI website for a dessert brand or bakery.
+- [🌍 Travel Website](https://github.com/cyriljaiswal/Travel-Website) — A visually appealing and responsive travel landing page with interactive features.
 
 ---
 
