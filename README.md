@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Web+Developer+%7C+Frontend+Engineer;Love+to+Design+%26+Code;Building+cool+UI+with+HTML+CSS+JS+%26" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Web+Developer+%7C+Frontend+Engineer;Love+to+Design+%26+Code;Building+cool+UI+with+HTML+CSS+JS" alt="Typing SVG" />
 </p>
 
 ---
