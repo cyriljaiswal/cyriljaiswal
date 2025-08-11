@@ -33,9 +33,7 @@
 
 ### 📌 Projects Worth Checking
 
-- [🔐 Login & Register Form](https://github.com/cyriljaiswal/Login-Register) — A clean login/register UI built using HTML, CSS, and JS.
-- [🍰 SweetBite Website](https://github.com/cyriljaiswal/sweetbite-website) — A sweet-themed modern UI website for a dessert brand or bakery.
-- [🌍 Travel Website](https://github.com/cyriljaiswal/Travel-Website) — A visually appealing and  travel landing page with interactive features.
+- [☕ Coffee Shop Website](https://cyriljaiswal.github.io/coffee-shop/) — A fully responsive coffee shop website with interactive features, built using HTML, CSS, and JavaScript.
 
 ---
 
