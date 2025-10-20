@@ -1,7 +1,7 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6D00FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Cyril+Jaiswal+👋" 
-    alt="Cyril Jaiswal Typing Animation" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0&color=6D00FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Cyril+Jaiswal+👋" 
+    alt="Cyril Jaiswal Greeting" 
   />
 </p>
 
