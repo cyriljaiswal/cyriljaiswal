@@ -1,55 +1,41 @@
-<div align="center">
-
-<!-- Typing Animation -->
-<img 
-  src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Cyril+Jaiswal;Software+Developer&font=Fira+Code&size=30&duration=4000&pause=1000&color=6D00FF&center=true&vCenter=true&multiline=true&width=500&height=70" 
-  alt="Typing SVG Animation" 
-/>
-
-</div>
+<h1 align="center">Hi 👋, I'm Cyril Jaiswal</h1>
+<h3 align="center">Software Developer | Building modern web solutions</h3>
 
 <p align="center">
-  Building robust web applications and exploring new technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6D00FF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Tech+Explorer;Problem+Solver" alt="Typing SVG" />
 </p>
 
----
+<br>
 
-<div align="center">
+### 👨‍💻 About Me
 
-### ⚙️ Tech Stack
+- 💡 I enjoy building fast, scalable, and user-friendly web apps  
+- 🌱 Currently learning **Cloud Computing & DevOps**  
+- ⚙️ Love working with **React, TypeScript, Python, and Node.js**  
+- 🤝 Open to collaborating on impactful software projects  
 
-<span style="font-size: 2.5em; line-height: 1.5;">
-⚛️ 📘 🐍 🟢 ☁️ 🐳
-</span>
+<br>
 
-**React | TypeScript | Python | Node.js | AWS | Docker**
+### 🧰 Tech Stack
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,python,nodejs,aws,docker,git,html,css" alt="Tech Stack" />
+</p>
 
----
+<br>
 
-<div align="center">
+### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/cyriljaiswal/" target="_blank">
-  <strong>Connect on LinkedIn</strong> 💼
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cyriljaiswal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:cyriljaiswal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-&nbsp;&nbsp;&nbsp;
-
-<img 
-  src="https://komarev.com/ghpvc/?username=cyriljaiswal&style=flat-square&color=blue" 
-  alt="Profile Views" 
-/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 About Me  
-💡 Passionate about crafting scalable, efficient web applications  
-🌱 Continuously learning cloud and DevOps technologies  
-💬 Open to collaborations and exciting software projects  
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyriljaiswal&style=flat-square&color=6D00FF" alt="Profile Views" />
+</p>
