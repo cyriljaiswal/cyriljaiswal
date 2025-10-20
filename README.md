@@ -1,48 +1,18 @@
-<h1 align="center">Hi 👋, I'm Cyril Jaiswal</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<div align="center">
+<!-- Dynamic Typing Animation: Hi, I'm Cyril Jaiswal | Software Developer -->
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com/%3Flines%3DHi,%2BI%27m%2BCyril%2BJaiswal%3BSoftware%2BDeveloper%26font%3DFira%2520Code%26size%3D30%26duration%3D4000%26pause%3D1000%26color%3D6D00FF%26center%3Dtrue%26vCenter%3Dtrue%26multiline%3Dtrue%26width%3D500%26height%3D70" alt="Typing SVG Animation" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Web+Developer+%7C+Frontend+Engineer;Love+to+Design+%26+Code;Building+cool+UI+with+HTML+CSS+JS" alt="Typing SVG" />
+<!-- Skill Icons for a clean, visual representation of your technology stack -->
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,angular,ts,tailwind,nodejs,python,mongodb,firebase,docker,aws,git" alt="Tech Stack Icons" />
 </p>
 
----
+<div align="center">
+<!-- LinkedIn Badge (remember to replace [Your LinkedIn Profile Link]) -->
+<a href="[Your LinkedIn Profile Link]"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/></a>
 
-### 🌟 About Me
-- 🎓 I'm a frontend developer with a focus on **HTML, CSS, JavaScript, and React**.
-- 🌱 Currently diving deeper into **React Hooks**, **Tailwind CSS**, and **Web Animations**.
-- 💼 Building responsive, accessible, and user-friendly UIs.
-- ⚡ Passionate about **clean code**, **UI/UX**, and continuous learning.
-- 💬 Ask me about **web animations**, **responsive design**, or **how to make your portfolio stand out**!
-- 📫 Reach me at: **cyriljaiswal@outlook.com**
-- 🌐 Portfolio: [Coming Soon]
-- 🧠 Fun fact: I can make your form validation errors look good 😎
+<!-- Visitor Count Badge -->
 
----
-
-### 🛠️ Languages & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-
----
-
-### 📌 Projects Worth Checking
-
-- [☕ Coffee Shop Website](https://cyriljaiswal.github.io/coffee-shop/) — A fully responsive coffee shop website with interactive features, built using HTML, CSS, and JavaScript.
-
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/cyriljaiswal)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge&logoColor=white)](https://github.com/cyriljaiswal)
-[![Outlook](https://img.shields.io/badge/-Outlook-blue?logo=microsoft-outlook&style=for-the-badge&logoColor=white)](mailto:cyriljaiswal@outlook.com)
-
----
-
-> *“The best frontend is the one users never have to think about — intuitive, beautiful, and fast.”*
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dcyriljaiswal%26style%3Dflat-square%26color%3Dblue" alt="Profile Views" />
+</div>
