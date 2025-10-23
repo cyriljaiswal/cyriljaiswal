@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Cyril Jaiswal 👋</h2>
 
 <p align="center">
-  Software Developer • Building modern web apps • Learning Cloud &amp; DevOps
+          Software Developer • Building modern web apps
 </p>
 
 <!-- Tech Stack -->
