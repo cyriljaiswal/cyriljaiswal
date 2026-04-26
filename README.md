@@ -19,7 +19,7 @@ Still learning. Always curious.
 `Power BI` `Tableau` `Matplotlib` `Seaborn` `Excel`
 
 **Environment**
-`Jupyter Notebook` `VS Code` `Git`
+`Jupyter Notebook` `VS Code` `Git` `PostgresSQL` 
 
 ---
 
