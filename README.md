@@ -37,7 +37,7 @@ Matplotlib · Seaborn · Plotly · Chart.js
 
 **Web & Backend**
 ```
-. JavaScript · HTML/CSS .
+ JavaScript · HTML/CSS 
 ```
 
 ---
