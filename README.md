@@ -18,7 +18,6 @@
 ## About me
 
 - 📊 CS student focused on **data analysis**, databases, and web development
-- 🛠️ I build full-stack projects — from PHP/MySQL backends to React frontends
 - 📍 Based in Pune · open to internships & entry-level data analyst roles
 
 ---
