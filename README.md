@@ -34,7 +34,7 @@ Python · Pandas · NumPy · SQL · MySQL · Excel
 Matplotlib · Seaborn · Plotly · Chart.js
 ```
 
-**Web & Backend**
+**Web**
 ```
  JavaScript · HTML/CSS 
 ```
