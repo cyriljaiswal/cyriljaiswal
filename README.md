@@ -8,7 +8,7 @@
 *Turning raw data into clear stories — at the intersection of analytics, web, and visual communication.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cyriljaiswal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyriljaiswal/)
-[![Gmail](https://img.shields.io/badge/Gmail-cyriljaiswal@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cyriljaiswal@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-richirich0270@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:richirich0270@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=cyriljaiswal&style=flat-square&color=blue)
 
 </div>
