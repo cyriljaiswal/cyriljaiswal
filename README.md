@@ -44,16 +44,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🍽 cognifyz-data-analysis](https://github.com/cyriljaiswal/cognifyz-data-analysis-Cyril) | Restaurant DB · 13 SQL views · Python viz across 3 levels | PostgreSQL · Python · Matplotlib |
-| [🛒 retail-sales-analysis](https://github.com/cyriljaiswal/retail_sales_analysis) | 100K+ rows · CTEs · window functions · advanced SQL | PostgreSQL · SQL |
-| [📎 assignment-assembler](https://github.com/cyriljaiswal/assignment-assembler) | React + Flask PDF merger with local network bridge | React · Flask · PDF |
-| [🏫 faculty-cabin-finder](https://github.com/cyriljaiswal/faculty-cabin-finder) | MongoDB REST API + Google OAuth hosted on Render | MongoDB · Node · OAuth |
-
----
 
 ### 📊 GitHub Stats
 
