@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=200&section=header&text=Cyril%20Jaiswal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20CS%20Undergrad%20%C2%B7%20Visual%20Storyteller&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=200&section=header&text=Cyril%20Jaiswal&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20CS%20Undergrad%20%&descAlignY=55&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+data+pipelines+with+PostgreSQL...;Turning+spreadsheets+into+stories...;Co-creating+FrameLore+%F0%9F%8E%AC;Open+to+data+analyst+internships...;Python+%C2%B7+SQL+%C2%B7+Flask+%C2%B7+React" alt="Typing SVG" />
 
