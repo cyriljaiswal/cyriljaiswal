@@ -19,7 +19,6 @@
 - 🎓 B.Tech CSE @ MIT ADT University, Pune (2024–2028)
 - 📊 Data Analyst Intern @ **Cognifyz Technologies** (May–Jun 2026)
 - 🍃 Built a PostgreSQL restaurant DB with 13 SQL views + Python visualizations
-- 🎬 Co-creating **FrameLore** — a YouTube channel on cinema & filmmaking
 - 📍 Based in Pune · Open to internships & entry-level data roles
 - 💬 Ask me about SQL, Python data pipelines, or video editing
 
