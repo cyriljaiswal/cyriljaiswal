@@ -1,56 +1,44 @@
-<h1 align="center">Hi there, I'm Cyril Jaiswal 👋</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | Data Enthusiast</h3>
+<div align="center">
+  <h1>Hi there, I'm Cyril Jaiswal <img src="https://media.giphy.com/media/mGcnDi11A_fSlA73H5/giphy.gif" width="35"></h1>
+</div>
 
 <p align="center">
-  I'm an undergrad software engineering student based in Pune, Maharashtra, passionate about building responsive web applications, robust backend APIs, and exploring machine learning. When I'm not debugging code, you'll find me at the gym, playing acoustic guitar, or editing videos.
+  <!-- Typing Effect Animation -->
+  <a href="https://github.com/cyriljaiswal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+@+MIT;Full-Stack+Developer+(React+%2B+Python);Exploring+Machine+Learning+%26+Networking;Gamer,+Guitarist+%26+Video+Editor" alt="Typing SVG" />
+  </a>
 </p>
 
-## 🚀 About Me
-- 🎓 **Currently Studying:** Software Engineering (Class SY-1) 
-- 💻 **What I'm building:** Interactive React frontends (like ForgePC with 3D components) and Python/Flask backend architectures (Personal Metrics API).
-- 🧠 **Exploring:** Data Structures, Machine Learning, and leveraging Generative AI for rapid development.
-- 🎨 **Hobbies:** PC Gaming (RDR2, GTA V), Video Editing (DaVinci Resolve, Premiere Pro), Amateur Photography, and guitar maintenance.
-- 📫 **Reach me at:** [Your Email/LinkedIn Link Here]
+<p align="center">
+  I'm a second-year software engineering student based in Pune, building responsive web apps, backend APIs, and learning data structures. When I'm offline, I'm either hitting the gym, playing my acoustic guitar, or color grading videos in DaVinci Resolve.
+</p>
 
-## 🛠️ Tech Stack & Tools
+---
 
-**Languages & Core:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 What I'm Up To
+- 🎓 **Studying:** Software Engineering at MIT School of Computing
+- 💻 **Building:** **Personal Metrics API** (Python/Flask backend) & **ForgePC** (Interactive 3D PC builder)
+- 🧠 **Learning:** Cisco Networking, Data Structures, and Generative AI workflows
+- 🎯 **Hackathons:** Smart India Hackathon (Telemedicine Access for Rural Healthcare)
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+### 🛠️ Tech Stack
+<div align="center">
+  <!-- Modern, clean tech icons -->
+  <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,flask,postgres,sqlite,git,vscode,kubernetes" alt="Tech Stack" />
+</div>
 
-**Backend & Databases:**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br>
 
-**Tools & Workflows:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-db2138?style=for-the-badge&logo=davinci-resolve&logoColor=white)
-
-## 💡 Featured Projects
-* **ForgePC:** An interactive 3D PC builder web app featuring component visualization and animated RGB fans using React and Three.js.
-* **Personal Metrics API:** A local REST API built with Python, Flask, and SQLite for tracking daily fitness, language learning, and coding activities.
-* **Telemedicine Access System:** Developed a smart healthcare access solution for rural Nabha (presented at Smart India Hackathon).
-* **Fraudulent Account Detection:** A prototype for social network analysis built as part of my Data Structures and Algorithms coursework.
-
-## 📊 GitHub Activity & Stats
-
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyriljaiswal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Cyril's GitHub Stats" />
 </div>
 
 <br>
 
+### 🐍 Contribution Graph
 <div align="center">
-  <!-- GitHub Contribution Grid Snake -->
+  <!-- GitHub Contribution Grid Snake (Untouched) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyriljaiswal/cyriljaiswal/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyriljaiswal/cyriljaiswal/output/github-contribution-grid-snake.svg">
