@@ -27,7 +27,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,react,tailwind,flask,postgres,sqlite,git,vscode,kubernetes" alt="Tech Stack" />
 </div>
 
-<br>
 
 ### 🐍 Contribution Graph
 <div align="center">
